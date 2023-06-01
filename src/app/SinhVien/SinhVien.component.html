@@ -1,0 +1,8 @@
+<h2>Danh sách sinh viên</h2>
+
+<ul>
+  <li *ngFor="let sinhVien of sinhVienList">
+    {{ sinhVien.ten }}
+    <button (click)="deleteSinhVien(sinhVien.id)">Xóa</button>
+  </li>
+</ul>

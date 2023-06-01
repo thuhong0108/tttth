@@ -1,0 +1,26 @@
+ {"giaoVienList": [
+  {
+    "maGV":"GV01",
+    "tenGV":"Trần Thị Kim Xuyên",
+    "namSinh":"2002",
+    "email":"tranxuyen@gmail.com",
+    "gioiTinh":"Nữ",
+    "sdt":"05683945674",
+    "diaChi":"Bình Định",
+    "maMonHoc":"KT"
+
+  },
+  {
+    "maGV":"GV02",
+    "tenGV":"Nguyễn Hồng Bảo Lâm",
+    "namSinh":"2002",
+    "email":"lam@gmail.com",
+    "gioiTinh":"Nữ",
+    "sdt":"05683945674",
+    "diaChi":"Bình Định",
+    "maMonHoc":"KT"
+
+  }
+
+]
+ }
